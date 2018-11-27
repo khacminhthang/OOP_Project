@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-10">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="G:/PJOOP/openrdf-sesame-2.1.2-onejar.jar"/>
+	<classpathentry kind="lib" path="G:/PJOOP/eclipse-rdf4j-2.3.2/lib/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="G:/PJOOP/eclipse-rdf4j-2.3.2/lib/slf4j-api-1.7.10.jar"/>
+	<classpathentry kind="lib" path="G:/PJOOP/rdf4j_provider/lib/virtjdbc4_2.jar"/>
+	<classpathentry kind="lib" path="G:/PJOOP/sesame/virt_sesame4.jar"/>
+	<classpathentry kind="lib" path="G:/PJOOP/log4jdbc4-1.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
